@@ -1,0 +1,38 @@
+{
+    "Shop Name": "Mayuri",
+    "Shop ID": 1,
+    "Location": "VIT Bhopal",
+    "Inventory": [
+      {"Item ID": 101, "Category": "Food", "Item Name": "Bread", "Stock": 50},
+      {"Item ID": 102, "Category": "Food", "Item Name": "Rice (5kg)", "Stock": 40},
+      {"Item ID": 103, "Category": "Food", "Item Name": "Pasta", "Stock": 30},
+      {"Item ID": 104, "Category": "Food", "Item Name": "Canned Tuna", "Stock": 25},
+      {"Item ID": 105, "Category": "Food", "Item Name": "Peanut Butter", "Stock": 20},
+      {"Item ID": 106, "Category": "Food", "Item Name": "Milk (1L)", "Stock": 35},
+      {"Item ID": 107, "Category": "Food", "Item Name": "Cheese", "Stock": 28},
+      {"Item ID": 108, "Category": "Food", "Item Name": "Eggs (Dozen)", "Stock": 60},
+      {"Item ID": 109, "Category": "Food", "Item Name": "Sugar (1kg)", "Stock": 45},
+      {"Item ID": 110, "Category": "Food", "Item Name": "Salt (1kg)", "Stock": 38},
+      {"Item ID": 111, "Category": "Toiletries", "Item Name": "Shampoo", "Stock": 50},
+      {"Item ID": 112, "Category": "Toiletries", "Item Name": "Soap", "Stock": 55},
+      {"Item ID": 113, "Category": "Toiletries", "Item Name": "Toothpaste", "Stock": 40},
+      {"Item ID": 114, "Category": "Toiletries", "Item Name": "Deodorant", "Stock": 30},
+      {"Item ID": 115, "Category": "Toiletries", "Item Name": "Lotion", "Stock": 25},
+      {"Item ID": 116, "Category": "Toiletries", "Item Name": "Hand Wash", "Stock": 35},
+      {"Item ID": 117, "Category": "Toiletries", "Item Name": "Tissue Roll (Pack)", "Stock": 50},
+      {"Item ID": 118, "Category": "Toiletries", "Item Name": "Shaving Cream", "Stock": 20},
+      {"Item ID": 119, "Category": "Toiletries", "Item Name": "Hair Oil", "Stock": 30},
+      {"Item ID": 120, "Category": "Toiletries", "Item Name": "Face Wash", "Stock": 28},
+      {"Item ID": 121, "Category": "Household Items", "Item Name": "Dishwashing Liquid", "Stock": 45},
+      {"Item ID": 122, "Category": "Household Items", "Item Name": "Laundry Detergent", "Stock": 50},
+      {"Item ID": 123, "Category": "Household Items", "Item Name": "Floor Cleaner", "Stock": 35},
+      {"Item ID": 124, "Category": "Household Items", "Item Name": "Garbage Bags (Pack)", "Stock": 40},
+      {"Item ID": 125, "Category": "Household Items", "Item Name": "Air Freshener", "Stock": 25},
+      {"Item ID": 126, "Category": "Household Items", "Item Name": "Sponges (Pack)", "Stock": 30},
+      {"Item ID": 127, "Category": "Household Items", "Item Name": "Mop", "Stock": 20},
+      {"Item ID": 128, "Category": "Household Items", "Item Name": "Broom", "Stock": 25},
+      {"Item ID": 129, "Category": "Household Items", "Item Name": "Gloves (Pair)", "Stock": 18},
+      {"Item ID": 130, "Category": "Household Items", "Item Name": "Light Bulb (LED)", "Stock": 22}
+    ]
+  }
+  

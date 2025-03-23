@@ -1,0 +1,34 @@
+{
+    "Shop Name": "Safal",
+    "Shop ID": 2,
+    "Location": "VIT Bhopal",
+    "Inventory": [
+      {"Item ID": 101, "Category": "Food", "Item Name": "Bread", "Stock": 45},
+      {"Item ID": 103, "Category": "Food", "Item Name": "Pasta", "Stock": 28},
+      {"Item ID": 106, "Category": "Food", "Item Name": "Milk (1L)", "Stock": 40},
+      {"Item ID": 107, "Category": "Food", "Item Name": "Cheese", "Stock": 32},
+      {"Item ID": 110, "Category": "Food", "Item Name": "Salt (1kg)", "Stock": 42},
+      {"Item ID": 113, "Category": "Toiletries", "Item Name": "Toothpaste", "Stock": 38},
+      {"Item ID": 114, "Category": "Toiletries", "Item Name": "Deodorant", "Stock": 28},
+      {"Item ID": 115, "Category": "Toiletries", "Item Name": "Lotion", "Stock": 30},
+      {"Item ID": 118, "Category": "Toiletries", "Item Name": "Shaving Cream", "Stock": 18},
+      {"Item ID": 120, "Category": "Toiletries", "Item Name": "Face Wash", "Stock": 32},
+      {"Item ID": 123, "Category": "Household Items", "Item Name": "Floor Cleaner", "Stock": 38},
+      {"Item ID": 125, "Category": "Household Items", "Item Name": "Air Freshener", "Stock": 30},
+      {"Item ID": 126, "Category": "Household Items", "Item Name": "Sponges (Pack)", "Stock": 35},
+      {"Item ID": 128, "Category": "Household Items", "Item Name": "Broom", "Stock": 22},
+      {"Item ID": 131, "Category": "Food", "Item Name": "Honey (500g)", "Stock": 25},
+      {"Item ID": 132, "Category": "Food", "Item Name": "Jam (Strawberry)", "Stock": 20},
+      {"Item ID": 133, "Category": "Toiletries", "Item Name": "Mouthwash", "Stock": 27},
+      {"Item ID": 134, "Category": "Toiletries", "Item Name": "Body Scrub", "Stock": 22},
+      {"Item ID": 135, "Category": "Household Items", "Item Name": "Dish Cloth (Pack)", "Stock": 30},
+      {"Item ID": 136, "Category": "Household Items", "Item Name": "Glass Cleaner", "Stock": 28},
+      {"Item ID": 137, "Category": "Food", "Item Name": "Butter (500g)", "Stock": 33},
+      {"Item ID": 138, "Category": "Food", "Item Name": "Yogurt (1L)", "Stock": 29},
+      {"Item ID": 139, "Category": "Toiletries", "Item Name": "Hair Gel", "Stock": 19},
+      {"Item ID": 140, "Category": "Toiletries", "Item Name": "Cotton Buds (Pack)", "Stock": 25},
+      {"Item ID": 141, "Category": "Household Items", "Item Name": "Paper Towels (Pack)", "Stock": 31},
+      {"Item ID": 142, "Category": "Household Items", "Item Name": "Bleach (1L)", "Stock": 26}
+    ]
+  }
+  

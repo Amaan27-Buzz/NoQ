@@ -79,5 +79,3 @@ a {
 a:hover {
   color: var(--primary-hover);
 }
-
-/* Remove the default App.css content as we'll define our own styles */
